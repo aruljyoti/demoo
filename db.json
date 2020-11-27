@@ -1,1 +1,29 @@
 
+{
+  "employees": [
+    {
+      "userName": "Aman",
+      "userPwd": "Aman@1234"
+    },
+    {
+      "userName": "Aman12",
+      "userPwd": "Aman@12345"
+    },
+    {
+      "userName": "Akshu13",
+      "userPwd": "Akshit12"
+    },
+    {
+      "userName": "Akshit",
+      "userPwd": "Aksh@123#"
+    },
+    {
+      "userName": "Akshu33",
+      "userPwd": "Akshit123"
+    },
+    {
+      "userName": "Mangla",
+      "userPwd": "Man@3d@7"
+    }
+  ]
+}
